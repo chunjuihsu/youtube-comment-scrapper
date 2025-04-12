@@ -1,4 +1,4 @@
-# youtubeCommentScrapper
+# Youtube Comment Scrapper
 
 The objective of this project is to build a program that can scrape more than 10k comments on YouTube.
 
